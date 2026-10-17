@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "url": "https://github.com/CSVROfficial/Arc/releases/download/v1.0.0/Arc-1.0.0.zip",
+  "notes": "",
+  "sha256": "578b2edeb38877c5acf2e341308fa1528df9b7855ccd70d13395b270989096d7",
+  "size": 63587109,
+  "date": "2026-10-16",
+  "signer": "C=US, O=CSVRStudios, CN=Arc, E=connorstameyvr@gmail.com",
+  "setup": {
+    "url": "https://github.com/CSVROfficial/Arc/releases/download/v1.0.0/Arc-Setup-1.0.0.exe",
+    "sha256": "2cdad9fcaf7dc90e1fa0243d63d029bfbea7073069ed9a30e7f949ed1e46d018",
+    "size": 94610672
+  }
+}
